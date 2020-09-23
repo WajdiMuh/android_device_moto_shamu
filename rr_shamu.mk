@@ -31,7 +31,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 $(call inherit-product, vendor/motorola/shamu/shamu-vendor.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_shamu
+PRODUCT_NAME := rr_shamu
 PRODUCT_DEVICE := shamu
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Nexus 6
